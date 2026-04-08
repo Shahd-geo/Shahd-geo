@@ -45,12 +45,6 @@ Interactive GIS dashboard visualizing schools and universities distribution.
 - Environmental Monitoring  
 - Dashboard & Visualization Development  
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahd-geo&show_icons=true&theme=tokyonight"/>
-</p>
 
 ---
 
